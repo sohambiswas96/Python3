@@ -6,7 +6,7 @@ pg.init()
 
 fps=pg.time.Clock()
 
-#display Initialozations
+#display Initializations
 
 WIDTH=800
 HEIGHT=800
